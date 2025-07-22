@@ -1,4 +1,4 @@
-# JEC AI Chatbot
+# College AI Chatbot
 
 An intelligent AI-powered chatbot for Jorhat Engineering College designed to assist students with college-related queries.
 
@@ -39,9 +39,9 @@ An intelligent AI-powered chatbot for Jorhat Engineering College designed to ass
 ### Step 1:  Download the Repository
 
 ```bash
-Extract project Zip file
+Extract proColleget Zip file
 # or download and extract the ZIP file
-cd JECAiBot
+cd CollegeAiBot
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
@@ -66,7 +66,7 @@ pip install django scikit-learn numpy
 
 ### Step 4: Configure Database
 
-The project uses SQLite by default. No additional configuration is needed unless you want to use a different database.
+The proColleget uses SQLite by default. No additional configuration is needed unless you want to use a different database.
 
 ### Step 5: Migrate Database
 
@@ -136,7 +136,7 @@ The application will be available at http://127.0.0.1:8000/
 
 For production deployment:
 
-1. Set `DEBUG = False` in `JECAiBot/settings.py`
+1. Set `DEBUG = False` in `CollegeAiBot/settings.py`
 2. Configure a production-ready database like PostgreSQL
 3. Use a WSGI server like Gunicorn
 4. Set up a reverse proxy with Nginx or Apache
