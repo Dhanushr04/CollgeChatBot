@@ -1,6 +1,6 @@
 # College AI Chatbot
 
-An intelligent AI-powered chatbot for Jorhat Engineering College designed to assist students with college-related queries.
+An intelligent AI-powered chatbot designed to assist students with college-related queries.
 
 ## Features
 
